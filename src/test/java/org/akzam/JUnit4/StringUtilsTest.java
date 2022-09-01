@@ -1,9 +1,9 @@
-package org.akzam.lessons_3_5_7;
+package org.akzam.JUnit4;
 
-import junit.framework.TestCase;
 import org.junit.Test;
+import static org.junit.Assert.*;
 
-public class StringUtilsTest extends TestCase {
+public class StringUtilsTest {
 
     private final StringUtils su = new StringUtils();
 

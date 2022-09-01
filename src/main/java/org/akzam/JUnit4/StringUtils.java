@@ -1,4 +1,4 @@
-package org.akzam.lessons_3_5_7;
+package org.akzam.JUnit4;
 
 public class StringUtils {
 
